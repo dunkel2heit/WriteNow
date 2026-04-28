@@ -1,4 +1,4 @@
-# 📝 Notch
+# 📝 WriteNow
 
 A clean, minimal desktop notes app built with Python and PyQt5. Your notes are saved automatically — no buttons, no fuss.
 
